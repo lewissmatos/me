@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [react-lsm-demo-app](https://github.com/lewissmatos/react-lsm-demo-app)
 
-- 🌱 I’m currently learning **Nextjs, Flutter, GCP**
-
 - 🦾 I’m looking for collaborators for [react-lsm](https://github.com/lewissmatos/react-lsm)
 
 - 👨‍💻 I'm also working on my personal website, [lewissmatos.dev](https://github.com/lewissmatos/lewissmatos.dev)
+
+- 🌱 I’m currently learning **Nextjs, Flutter, GCP**
 
 - 👨‍💻 All of my projects are available at [:pending:](:pending:)
 
